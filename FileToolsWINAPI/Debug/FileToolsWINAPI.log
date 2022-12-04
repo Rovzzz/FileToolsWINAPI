@@ -1,0 +1,14 @@
+﻿  Source.c
+C:\Users\1290743\Desktop\Системное программирование\FileToolsWINAPI\FileToolsWINAPI\Source.c(19,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\1290743\Desktop\Системное программирование\FileToolsWINAPI\FileToolsWINAPI\Source.c(20,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\1290743\Desktop\Системное программирование\FileToolsWINAPI\FileToolsWINAPI\Source.c(27,11): warning C4098: f: функция типа "void", возвращающая значение
+C:\Users\1290743\Desktop\Системное программирование\FileToolsWINAPI\FileToolsWINAPI\Source.c(32,12): warning C4098: f: функция типа "void", возвращающая значение
+C:\Users\1290743\Desktop\Системное программирование\FileToolsWINAPI\FileToolsWINAPI\Source.c(43,11): warning C4098: f: функция типа "void", возвращающая значение
+C:\Users\1290743\Desktop\Системное программирование\FileToolsWINAPI\FileToolsWINAPI\Source.c(97,22): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\1290743\Desktop\Системное программирование\FileToolsWINAPI\FileToolsWINAPI\Source.c(108,21): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\1290743\Desktop\Системное программирование\FileToolsWINAPI\FileToolsWINAPI\Source.c(149,22): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\1290743\Desktop\Системное программирование\FileToolsWINAPI\FileToolsWINAPI\Source.c(160,21): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\1290743\Desktop\Системное программирование\FileToolsWINAPI\FileToolsWINAPI\Source.c(201,22): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\1290743\Desktop\Системное программирование\FileToolsWINAPI\FileToolsWINAPI\Source.c(212,21): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\1290743\Desktop\Системное программирование\FileToolsWINAPI\FileToolsWINAPI\Source.c(54,1): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  FileToolsWINAPI.vcxproj -> C:\Users\1290743\Desktop\Системное программирование\FileToolsWINAPI\Debug\FileToolsWINAPI.exe
